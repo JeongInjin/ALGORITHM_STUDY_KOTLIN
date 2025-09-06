@@ -3,7 +3,7 @@ package injinrithm._1_st_week
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
-class AlgorithmWeek1Test {
+class Algorithm1Week1Test {
 
     @Test
     fun `최빈값 알파벳 찾기 테스트`() {
